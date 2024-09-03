@@ -5,3 +5,4 @@
 3. Hell's Kitchen
 4. huancavelica
 5. lima
+6. cusco
