@@ -6,3 +6,4 @@
 4. huancavelica
 5. lima
 6. cusco
+arequipa
